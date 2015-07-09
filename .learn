@@ -1,7 +1,8 @@
 languages:
-  - Python
+  - python
 tags:
-  - cssi, python
+  - cssi
+  - python
   - variables
   - math operators
   - conditional statements
