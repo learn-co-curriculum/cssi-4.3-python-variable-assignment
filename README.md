@@ -44,6 +44,3 @@ On the first line, we assigned the variable name to store Kevin. On the next lin
 #Naming Conventions
 
  When we name a variable, we use all lowercase letters. Variable names can not have spaces but instead use underscores this_style_is_called_snake_case.
-
-#Lab
-<a href="https://github.com/google-cssi/student-labs/blob/master/python-variables.md">Variables Lab</a>
