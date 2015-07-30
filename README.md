@@ -1,8 +1,4 @@
----
-tags: cssi, basic python, variables
-level: 1
-languages: python
----
+
 #Python Variable Assignment
 
 #Objectives:
