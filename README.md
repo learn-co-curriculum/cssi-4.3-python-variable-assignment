@@ -40,3 +40,5 @@ On the first line, we assigned the variable name to store Kevin. On the next lin
 #Naming Conventions
 
  When we name a variable, we use all lowercase letters. Variable names can not have spaces but instead use underscores this_style_is_called_snake_case.
+
+<a href='https://learn.co/lessons/cssi-4.3-python-variable-assignment' data-visibility='hidden'>View this lesson on Learn.co</a>
