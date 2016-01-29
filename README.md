@@ -41,4 +41,4 @@ On the first line, we assigned the variable name to store Kevin. On the next lin
 
  When we name a variable, we use all lowercase letters. Variable names can not have spaces but instead use underscores this_style_is_called_snake_case.
 
-<a href='https://learn.co/lessons/cssi-4.3-python-variable-assignment' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.3-python-variable-assignment' title='Python Variable Assignment'>Python Variable Assignment</a> on Learn.co and start learning to code for free.</p>
